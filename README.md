@@ -130,3 +130,12 @@ ALTER TABLE IF EXISTS public.softcartfactsales
     ON DELETE CASCADE;
 
 END;
+
+# ELT
+Step 4: Import the data in the file sales.sql into the sales database.
+![image](https://github.com/user-attachments/assets/3d9f1bff-04db-4845-8e97-44d005c2eddd)
+
+Step 7: Modify mysqlconnect.py suitably and make sure you are able to connect to the MySQL server instance on the Theia environment.
+
+![image](https://github.com/user-attachments/assets/c18d11e1-36dc-44fd-96c2-13b7bbe23bd1)
+
