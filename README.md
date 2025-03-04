@@ -138,4 +138,7 @@ Step 4: Import the data in the file sales.sql into the sales database.
 Step 7: Modify mysqlconnect.py suitably and make sure you are able to connect to the MySQL server instance on the Theia environment.
 
 ![image](https://github.com/user-attachments/assets/c18d11e1-36dc-44fd-96c2-13b7bbe23bd1)
+![image](https://github.com/user-attachments/assets/d3fa055d-efc5-43ba-b193-ed4d7e9baef6)
+![image](https://github.com/user-attachments/assets/323fda35-0849-4a07-9468-2a228d18700b)
+
 
