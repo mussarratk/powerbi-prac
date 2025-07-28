@@ -146,11 +146,11 @@ The dashboard empowers stakeholders to:
 ### 8️⃣ Project Outcome
 
 This project demonstrates advanced Power BI skills:
-✅ **Interactive, layered dashboards** with drill-through functionality
-✅ **Efficient DAX measures** for time intelligence and profit analysis
-✅ **Performance-optimized visuals** (<400ms load time)
-✅ **Row-Level Security implementation** for secure stakeholder reporting
-✅ **Business Insights** → Data-driven strategies for profitability and loyalty management
+- ✅ **Interactive, layered dashboards** with drill-through functionality
+- ✅ **Efficient DAX measures** for time intelligence and profit analysis
+- ✅ **Performance-optimized visuals** (<400ms load time)
+- ✅ **Row-Level Security implementation** for secure stakeholder reporting
+- ✅ **Business Insights** → Data-driven strategies for profitability and loyalty management
 
 ---
 
