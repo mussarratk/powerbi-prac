@@ -1,10 +1,10 @@
 
 ---
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
+
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="40" />
-  <strong>Power BI Data Analyst Capstone: Tailwind Traders Sales and Profit Dashboard Project</strong>
+  <strong># Power BI Data Analyst Capstone: Tailwind Traders Sales and Profit Dashboard Project</strong>
 </p>
 
 
@@ -295,6 +295,6 @@ In addition to strategic insight delivery, the dashboard has been designed with 
 This solution enables stakeholders across the business to explore data dynamically, identify trends quickly, and take informed action to improve revenue, optimize operations, and strengthen customer relationships. Moving forward, the dashboard serves as a foundation for ongoing analytics expansion, including cloud data integration, customer segmentation, and real-time performance monitoring.
 
 ---
+![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
 
-
-
+---
