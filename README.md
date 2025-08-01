@@ -9,7 +9,7 @@
 
 # Power BI Data Analyst Capstone: Tailwind Traders Sales and Profit Dashboard Project
 
-This project serves as the capstone for the Microsoft Power BI Data Analyst Professional Certificate, demonstrating end-to-end mastery in transforming raw business data into actionable insights. It showcases proficiency across the entire data analytics lifecycle, from complex ** ETL processes and robust data modeling to advanced DAX programming, compelling visual analytics, collaborative reporting features performance optimization, and storytelling with Power BI **. An advanced Power BI report analyzing **global sales data** for **Tailwind Traders**, a  retail company.
+This project serves as the capstone for the Microsoft Power BI Data Analyst Professional Certificate, demonstrating end-to-end mastery in transforming raw business data into actionable insights. It showcases proficiency across the entire data analytics lifecycle, from complex **ETL processes and robust data modeling to advanced DAX programming, compelling visual analytics, collaborative reporting features performance optimization, and storytelling with Power BI**. An advanced Power BI report analyzing **global sales data** for **Tailwind Traders**, a  retail company.
 
 
 ---
