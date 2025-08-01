@@ -1,7 +1,7 @@
 
 ---
 
-# 📊 Tailwind Traders Sales Dashboard
+# Power BI Data Analyst Capstone:Tailwind Traders Sales and Profit Dashboard Project
 
 An advanced Power BI report analyzing **global sales data** for **Tailwind Traders**, a fictitious retail company. The project demonstrates expertise in **data modeling, DAX, performance optimization, and storytelling with Power BI**.
 
