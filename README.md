@@ -295,19 +295,19 @@ This solution enables stakeholders across the business to explore data dynamical
 
 ---
 
-📋 Business Questions & Analysis Scenarios
+## 📋 Business Questions & Analysis Scenarios
 The Tailwind Traders project was designed to assess how well analytical tools can support real business decision-making. The dashboard answers key questions across sales, profit, and product performance:
 
-📈 What is the overall revenue, gross profit, and year-to-date (YTD) performance?
-🌍 Which countries contribute the most to total revenue and profit margin?
-💸 What are the most profitable and least profitable products?
-🛒 How does stock level compare with quantity purchased and sold?
-🎯 What is the distribution of loyalty points across regions?
-🕒 How do median sales fluctuate over time?
-🔢 What is the breakdown of net revenue and profit by product category?
-📊 How do yearly profit margins trend over time?
-🧮 What is the correlation between revenue metrics and time periods?
-🧠 How can we use these insights to make pricing, inventory, or marketing decisions?
+* 📈 What is the overall revenue, gross profit, and year-to-date (YTD) performance?
+* 🌍 Which countries contribute the most to total revenue and profit margin?
+* 💸 What are the most profitable and least profitable products?
+* 🛒 How does stock level compare with quantity purchased and sold?
+* 🎯 What is the distribution of loyalty points across regions?
+* 🕒 How do median sales fluctuate over time?
+* 🔢 What is the breakdown of net revenue and profit by product category?
+* 📊 How do yearly profit margins trend over time?
+* 🧮 What is the correlation between revenue metrics and time periods?
+* 🧠 How can we use these insights to make pricing, inventory, or marketing decisions?
 
 ---
 ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
