@@ -16,7 +16,7 @@ Tailwind Traders is a multinational retail company operating across diverse prod
 * Conducting in-depth regional profitability analysis.
 * Enhancing customer loyalty programs.
 
-### Project Business Goal
+### 🎯Project Business Goal
 
 The primary objective of this capstone project was to develop a comprehensive Power BI solution that enables Tailwind Traders to:
 
@@ -24,10 +24,12 @@ The primary objective of this capstone project was to develop a comprehensive Po
 * Build a Robust Data Model: Design a scalable and flexible data model to support complex business questions.
 * Generate Actionable Insights: Create interactive reports and dashboards that provide clear, data-driven answers to key business questions.
 * Automate Reporting & Monitoring: Configure automated alerts and subscriptions for proactive business monitoring and timely information delivery.
+---
 
 ### 📊 Dashboard Overview
 
 
+---
 
 ### 1️⃣ Project Objective
 
