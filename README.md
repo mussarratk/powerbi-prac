@@ -25,6 +25,10 @@ The primary objective of this capstone project was to develop a comprehensive Po
 * Generate Actionable Insights: Create interactive reports and dashboards that provide clear, data-driven answers to key business questions.
 * Automate Reporting & Monitoring: Configure automated alerts and subscriptions for proactive business monitoring and timely information delivery.
 
+### 📊 Dashboard Overview
+
+
+
 ### 1️⃣ Project Objective
 
 Tailwind Traders aims to strengthen strategic decision-making by gaining detailed insights into **sales, profitability, and customer engagement** across multiple regions.
@@ -168,6 +172,77 @@ This project demonstrates advanced Power BI skills:
 - ✅ **Row-Level Security implementation** for secure stakeholder reporting
 - ✅ **Business Insights** → Data-driven strategies for profitability and loyalty management
 
+---
+
+## 🛠️ Tools & Technologies
+
+| Area              | Tools & Techniques Used                                |
+|-------------------|--------------------------------------------------------|
+| ETL               | Power Query, Python (pandas) for exchange rates        |
+| Modeling          | Star Schema with Fact & Dimension tables               |
+| DAX Measures      | TOTALYTD(), DATESQTD(), DIVIDE(), MEDIAN(), KPIs       |
+| Performance       | Load time optimization (<400ms), column pruning        |
+| Security          | Row-Level Security (RLS) for region-specific access    |
+| Monitoring        | Subscriptions, Alerts (e.g., Gross Revenue threshold)  |
+
+---
+
+---
+
+## 📈 Strategic Recommendations
+
+| Focus Area               | Action                                                        | Estimated Impact        |
+|--------------------------|---------------------------------------------------------------|-------------------------|
+| Product Optimization     | Promote top-sellers (e.g., Modular Sofa), retire low-performers | ↑ Revenue 15-20%        |
+| Regional Strategy        | Invest in UAE market (highest median sales)                   | ↑ Market Share 5-8%     |
+| Customer Engagement      | Expand UK loyalty program to other countries                  | ↑ Retention 10%         |
+| Inventory Management     | Adjust stock to match avg purchases (2.8 units/txn)           | ↓ Carrying Costs 12%    |
+| Tech Infrastructure      | Migrate to Azure SQL, automate exchange rate refresh          | ↑ Efficiency 30%        |
+
+---
+
+## 📅 Implementation Roadmap
+
+| Priority | Recommendation              | Timeline    |
+|----------|-----------------------------|-------------|
+| High     | Product focus + UAE expansion | 1–3 months  |
+| Medium   | Loyalty + Inventory strategy | 2–4 months  |
+| Low      | Automation + Tech upgrade    | 6–12 months |
+
+---
+
+## 🎯 Skills Demonstrated
+
+| Skill Area         | Demonstrated In                                      | PL-300 Mapping             |
+|--------------------|-------------------------------------------------------|----------------------------|
+| Data Preparation   | Power Query, Python script                            | Prepare the Data           |
+| Modeling           | Star schema, calculated tables, relationships         | Model the Data             |
+| DAX Development    | YTD, QTD, Profit Margin, KPIs                         | Model the Data             |
+| Visualization      | Interactive visuals + forecasting                     | Visualize the Data         |
+| Optimization       | Performance Analyzer, Load time tuning                | Optimize the Data Model    |
+| Deployment         | Report publishing, RLS, alerts, subscriptions         | Deploy and Maintain Assets |
+
+---
+
+---
+
+## 🐍 Python Script (Exchange Rates)
+
+```python
+import pandas as pd
+from io import StringIO
+
+data = """Exchange ID;ExchangeRate;Exchange Currency
+1;1;USD
+2;0.75;GBP
+3;0.85;EUR
+4;3.67;AED
+5;1;AUD"""
+
+df = pd.read_csv(StringIO(data), sep=';')
+df
+
+```
 ---
 
 ### 📂 Repository Structure (for GitHub Portfolio)
