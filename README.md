@@ -4,7 +4,7 @@
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="40" />
-  <strong># Power BI Data Analyst Capstone: Tailwind Traders Sales and Profit Dashboard Project</strong>
+  <strong> # Power BI Data Analyst Capstone: Tailwind Traders Sales and Profit Dashboard Project</strong>
 </p>
 
 
