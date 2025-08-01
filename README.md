@@ -1,5 +1,6 @@
 
 ---
+![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
 
 # Power BI Data Analyst Capstone:Tailwind Traders Sales and Profit Dashboard Project
 
